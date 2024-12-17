@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "816654802694",
+    "project_id": "macabulosetr",
+    "storage_bucket": "macabulosetr.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:816654802694:android:e17ed80b0cdc5c551b4887",
+        "android_client_info": {
+          "package_name": "com.example.macabulos_etr"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCZ7nWKithVGh_LmCmaAaMxjIf9H5vCl1o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
